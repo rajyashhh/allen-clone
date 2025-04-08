@@ -38,7 +38,7 @@ function Layout(){
 
 function ErrorPage(){
   return <div>
-    Sorry Page not found at our servers!
+    Sorry Page not found at our servers! This page is the default error page.
   </div>
 }
 
